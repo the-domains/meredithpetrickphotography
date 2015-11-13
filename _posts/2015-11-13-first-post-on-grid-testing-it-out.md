@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-13T18:30:05.720Z'
-dateModified: '2015-11-13T18:26:07.191Z'
-title: First Post on grid testing it out.
+datePublished: '2015-11-13T18:30:30.100Z'
+dateModified: '2015-11-13T18:30:26.567Z'
+title: Family Sessions
 sourcePath: _posts/2015-11-13-first-post-on-grid-testing-it-out.md
 published: true
 authors: []
