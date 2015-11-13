@@ -1,0 +1,23 @@
+name: Meredithpetrickphotography
+favicon: null
+layout_spectrum: 0.34821863751858473
+typography_spectrum: 0.8200721505563706
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3168522163759917
+  lightness: 0.5709997280500829
+  saturation: 0.4798628792632371
+  rhythmicContrast: 0.7343835278879851
+purpose: []
