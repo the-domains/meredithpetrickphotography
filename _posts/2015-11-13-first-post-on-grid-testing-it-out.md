@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T17:52:00.593Z'
-dateModified: '2016-01-25T17:51:59.263Z'
+datePublished: '2016-01-25T17:55:49.719Z'
+dateModified: '2016-01-25T17:55:22.444Z'
 title: Family Sessions
 sourcePath: _posts/2015-11-13-first-post-on-grid-testing-it-out.md
 published: true
@@ -22,6 +22,7 @@ url: first-post-on-grid-testing-it-out/index.html
 _type: Article
 
 ---
+Family Sessions
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26f89ecc-f8b0-432d-8c2d-79f10e81d850.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5723e6cd-67a0-4178-b210-11719e1e19ef.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87915899-fa7e-414f-adc0-1df1f35198ae.jpg)
