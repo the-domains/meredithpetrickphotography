@@ -20,7 +20,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: meredithpetrickphotography.com
+  google: 'http://meredithpetrickphotography.com'
   facebook: null
   twitter: null
 opengraph:
