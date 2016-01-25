@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-25T17:55:50.066Z'
-dateModified: '2016-01-25T17:55:22.444Z'
+description: Family sessions
+datePublished: '2016-01-25T17:56:19.436Z'
+dateModified: '2016-01-25T17:56:14.608Z'
 title: Family Sessions
 sourcePath: _posts/2015-11-13-first-post-on-grid-testing-it-out.md
 published: true
