@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T18:00:08.214Z'
+datePublished: '2016-01-25T18:00:08.235Z'
 dateModified: '2016-01-25T18:00:05.322Z'
 title: Family Sessions
 sourcePath: _posts/2015-11-13-first-post-on-grid-testing-it-out.md
