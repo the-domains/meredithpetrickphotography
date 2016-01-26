@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T18:00:08.325Z'
-dateModified: '2016-01-25T18:00:05.322Z'
+datePublished: '2016-01-26T00:16:16.033Z'
+dateModified: '2016-01-26T00:15:56.166Z'
 title: Family Sessions
 sourcePath: _posts/2015-11-13-first-post-on-grid-testing-it-out.md
 published: true
