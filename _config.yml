@@ -1,6 +1,6 @@
-name: Meredithpetrickphotography
+name: Meredith Petrick Photography
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.68297
 typography_spectrum: 1
 title: Meredith Petrick Photography
 collections:
@@ -34,7 +34,7 @@ color:
     - '#aeb0b4'
     - '#dbdfe4'
     - '#c7cbd1'
-  brandStrength: 0.6875
+  brandStrength: 0.625
   lightness: 0.875
   saturation: 0.125
   rhythmicContrast: 0.5
